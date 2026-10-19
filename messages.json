@@ -1,0 +1,18 @@
+[
+  {
+    "messageID": "8378183835",
+    "messageHash": "83:2:HIPAYMENT",
+    "messageNumber": 2,
+    "recipient": "+27857597588",
+    "message": "Hi Keegan, did you receive the payment?",
+    "action": "Stored"
+  },
+  {
+    "messageID": "4249095395",
+    "messageHash": "42:2:HIPAYMENT",
+    "messageNumber": 2,
+    "recipient": "+27857597588",
+    "message": "Hi Keegan, did you receive the payment?",
+    "action": "Stored"
+  }
+]
